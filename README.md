@@ -20,13 +20,14 @@ This project implements an intelligent transformer load balancing system designe
   - Activation: > 2.0 A
   - Deactivation: < 1.9 A (5% hysteresis)
 
-## 📂 File Structure
 
 
 ## 📷 Project Images
 
-### System Setup Screenshot
-![System Setup](Ekran%20görüntüsü%202025-07-19%20141331.png)
 
-### Hardware Photo
-![Hardware](IMG_8649.JPEG)
+### Transformer Monitoring Panel Screenshot
+![Transformer Monitoring Panel](Ekran%20görüntüsü%202025-07-19%20141331.png)
+
+### Final Project Hardware Photo
+![Final Project Hardware](IMG_8649.JPEG)
+
