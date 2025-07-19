@@ -17,8 +17,8 @@ This project implements an intelligent transformer load balancing system designe
 - **Relay 1 (GPIO17)**: Always ON.
 - **Relay 2 (GPIO27)**: Controlled automatically based on total current threshold.
 - **Thresholds**: 
-  - Activation: > 2.0 A
-  - Deactivation: < 1.9 A (5% hysteresis)
+  - Activation: > 1.0 A
+  - Deactivation: < 0.9 A (5% hysteresis)
 
 
 
